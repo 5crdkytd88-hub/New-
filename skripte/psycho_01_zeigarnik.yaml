@@ -1,0 +1,27 @@
+# STIL "psycho" – wie "Hast du gewusst…": ruhige Stimme, KI-Neon-Bilder, ein Wort als Untertitel.
+# ki: Bildbeschreibung (Englisch). Der Neon-Look wird automatisch ergänzt.
+stil: psycho
+titel: "Warum dein Gehirn unfertige Dinge nicht loslässt"
+beschreibung: "Hast du gewusst, warum dich offene Aufgaben nachts nicht schlafen lassen? 🧠 #psychologie"
+hashtags: [psychologie, fakten, wusstestdu, gehirn, deutsch, mindset]
+szenen:
+  - text: "Hast du gewusst, dass dein Gehirn unerledigte Dinge besser speichert als erledigte?"
+    ki: "human head silhouette with glowing brain full of floating unfinished puzzle pieces"
+  - text: "Das nennt man den Zeigarnik-Effekt."
+    ki: "glowing letters floating in a futuristic laboratory, woman scientist hologram"
+  - text: "Die Psychologin Bluma Zeigarnik beobachtete Kellner in einem Café in Berlin."
+    ki: "waiter hologram carrying tray in a neon cafe at night"
+  - text: "Sie konnten sich jede offene Bestellung merken."
+    ki: "floating holographic order lists around a man's head"
+  - text: "Doch sobald die Rechnung bezahlt war, war alles vergessen."
+    ki: "holographic data fragments dissolving into particles"
+  - text: "Offene Aufgaben halten dein Gehirn in Spannung."
+    ki: "human brain with glowing tense electric network, red warning lights"
+  - text: "Deshalb denkst du nachts im Bett an alles, was noch nicht fertig ist."
+    ki: "person lying awake in bed surrounded by floating clocks and checklists"
+  - text: "Der Trick: Schreib vor dem Schlafen auf, was morgen zu tun ist."
+    ki: "glowing hand writing a checklist on a holographic notepad"
+  - text: "Dein Gehirn behandelt es dann, als wäre es schon erledigt."
+    ki: "calm human figure meditating, brain glowing softly blue, peaceful"
+  - text: "Und genau deshalb bist du bis zum Ende geblieben. Dein Gehirn wollte wissen, wie es ausgeht."
+    ki: "human eye reflecting a glowing question mark"

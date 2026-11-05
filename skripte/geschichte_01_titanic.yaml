@@ -1,0 +1,26 @@
+# STIL "fakten" für eine Geschichte: echte historische Fotos (Wikimedia) + KI-Szenen.
+# quelle: wikimedia -> bei historischen Themen zuerst im Wikimedia-Archiv suchen
+stil: fakten
+quelle: wikimedia
+titel: "Dieser kleine Schlüssel versenkte die Titanic?"
+beschreibung: "Ein einziger vergessener Schlüssel – und vielleicht wäre alles anders gekommen. Kanntest du diese Geschichte? 🚢"
+hashtags: [titanic, geschichte, wusstestdu, fakten, deutsch, shorts]
+szenen:
+  - text: "Ein *winziger Schlüssel* könnte schuld daran sein, dass die Titanic gesunken ist."
+    suche: "RMS Titanic departing Southampton"
+  - text: "Kurz vor der Abfahrt wurde der Offizier *David Blair* von der Crew abgezogen."
+    ki: "1912 ship officer in navy uniform walking down the gangway of a giant ocean liner, cinematic, sepia"
+  - text: "Er ging von Bord – und nahm aus Versehen einen Schlüssel mit."
+    ki: "old brass key in a hand, close up, dramatic light, cinematic"
+  - text: "Der Schlüssel gehörte zu einem Schrank. Und darin lagen: die *Ferngläser* für den Ausguck."
+    ki: "antique brass binoculars locked inside a wooden cabinet on a 1912 ship, cinematic"
+  - text: "In der Nacht des 14. April suchten die Männer im Krähennest das Meer also *mit bloßen Augen* ab."
+    ki: "two sailors in the crow's nest of an ocean liner at night looking at dark sea, cold, stars, cinematic"
+  - text: "Als sie den *Eisberg* sahen, war es zu spät."
+    ki: "giant iceberg looming in front of an ocean liner at night, dramatic, cinematic"
+  - text: "Ein Ausguck sagte später: Mit Fernglas hätten sie ihn *rechtzeitig* gesehen."
+    suche: "Frederick Fleet Titanic lookout"
+  - text: "Und der Schlüssel? Er wurde 2007 versteigert. Für rund *neunzigtausend Pfund*."
+    ki: "auctioneer wooden gavel hitting the block, old brass key on velvet, cinematic"
+  - text: "Folge mir – denn die nächste Geschichte über die Titanic ist noch *verrückter*."
+    suche: "Titanic wreck bow"

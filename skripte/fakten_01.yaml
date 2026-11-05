@@ -1,0 +1,29 @@
+# STIL "fakten" – wie "Zufällige Fakten": schnelle Fotos, bunte 2-Wort-Untertitel.
+# suche: Suchbegriff für Fotos aus dem Internet (Englisch liefert mehr Treffer)
+# ki:    stattdessen ein KI-Bild nach dieser Beschreibung erzeugen
+# *Wort* = dieses Wort im Untertitel farbig hervorheben
+stil: fakten
+titel: "Zufällige Fakten, die dein Gehirn kurz zum Absturz bringen 🧠"
+beschreibung: "Zufällige Fakten 🧠 Welchen Fakt kanntest du noch nicht? 🤔 Schreib die Nummer in die Kommentare!"
+hashtags: [zufälligefakten, fakten, wusstestdu, randomfakten, lernenmittiktok, deutsch]
+szenen:
+  - text: "Kleopatra lebte näher an der *Mondlandung* als am Bau der Pyramiden."
+    suche: "Giza pyramids"
+  - text: "Zufällige Fakten."
+    ki: "colorful glossy chrome spheres rolling on pastel geometric podium"
+  - text: "Ein Tag auf der Venus dauert länger als ein *ganzes Jahr* auf der Venus."
+    ki: "planet Venus glowing in deep space, thick yellow clouds, NASA style"
+  - text: "Die Universität Oxford ist älter als das *Reich der Azteken*."
+    suche: "Oxford university Radcliffe Camera"
+  - text: "Haie gab es schon, bevor es *Bäume* gab."
+    suche: "great white shark"
+  - text: "Ein Oktopus hat drei Herzen und *blaues Blut*."
+    suche: "octopus underwater"
+  - text: "Bananen sind botanisch gesehen Beeren. *Erdbeeren* dagegen nicht."
+    suche: "bananas"
+  - text: "In ägyptischen Gräbern fand man Honig, der über *dreitausend Jahre* alt war."
+    suche: "honey jar"
+  - text: "Und du hast bis hierhin bestimmt *nicht gemerkt*, dass du die ganze Zeit blinzelst."
+    ki: "extreme close up of a human eye, iris reflections, macro photo"
+  - text: "Welchen Fakt kanntest du noch nicht? Schreib die *Nummer* in die Kommentare."
+    ki: "colorful glossy slime being stretched, satisfying, pastel colors"
